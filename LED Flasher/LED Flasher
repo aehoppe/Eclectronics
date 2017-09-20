@@ -1,0 +1,18 @@
+Source:	C:/Users/ahoppe/Documents/Eclectronics/LED Flasher/LED Flasher.sch
+Date:	9/13/2017 6:05:38 PM
+Tool:	Eeschema 4.0.7
+Component Count:	13
+Ref	Value	Part	Footprint	Description	Vendor
+C1	10uF 10%	device:C_Small	Capacitors_SMD:C_0603	Unpolarized capacitor	
+C2	10uF 10%	device:C_Small	Capacitors_SMD:C_0603	Unpolarized capacitor	
+C3	1uF 10%	device:C_Small	Capacitors_SMD:C_0603	Unpolarized capacitor	
+C4	0.1uF 5%	device:C_Small	Capacitors_SMD:C_0603	Unpolarized capacitor	
+D1	LED	device:LED	LEDs:LED_0805	LED generic	
+J1	USB_A	conn:USB_A	Eclectronics:USB_A_480370001	USB Type A connector	
+R1	20K 1%	device:R	Resistors_SMD:R_0603	Resistor	
+R2	20K 1%	device:R	Resistors_SMD:R_0603	Resistor	
+R3	10K 1%	device:R	Resistors_SMD:R_0603	Resistor	
+R4	40.2K 1%	device:R	Resistors_SMD:R_0603	Resistor	
+R5	3.01K 1%	device:R	Resistors_SMD:R_0603	Resistor	
+U1	MCP6021	linear:MCP6001	TO_SOT_Packages_SMD:SOT-23-5	10 MHz, 850 µA Op Amps, SOT-23-5	
+U2	MCP1702-3302E	regul:MCP1700-3302E_SOT23	TO_SOT_Packages_SMD:SOT-23	250mA Low Quiscent Current LDO, 3.0V output, SOT-23	
